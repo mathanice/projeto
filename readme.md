@@ -62,7 +62,7 @@ git add (nome do arquivo) {adicionar um arquivo}
 
 git commit -m {adicionar uma mudança e fazer um commit}
 
-## Verificat se o commit foi salvo e ver a lista de commit
+## Verifica se o commit foi salvo e ver a lista de commit
 
 git log --oneline {mostrar os commit's da branch atual}
 
