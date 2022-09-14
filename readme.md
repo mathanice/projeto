@@ -1,4 +1,4 @@
-# PUXANDO MODIFICAÇÕES DO REPOSITORIO REMOTO
+# PUXANDO MODIFICAÇÕES DO REPOSITORIO
 - Antes de começar o trabalho na sua branch atual, fazer um git pull para pegar as alterações de outros colaboradores
 
 git pull {pegar atualizações do repositorio remoto/online}
